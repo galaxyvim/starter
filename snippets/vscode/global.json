@@ -1,0 +1,6 @@
+{
+  "global.json": {
+    "prefix": "snip",
+    "body": "Hello, snippets!"
+  }
+}
